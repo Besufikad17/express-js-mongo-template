@@ -4,10 +4,10 @@
 
 ## Features
 
-<li>ORM - [Mongoose](https://mongoosejs.com/)</li>
-<li>API - REST</li>
-<li>Password encription - [bcryptjs](https://www.npmjs.com/package/bcryptjs)</li>
-<li>Token - [JWT](https://www.npmjs.com/package/jsonwebtoken)</li>
+- ORM -> [Mongoose](https://mongoosejs.com/)
+- API -> REST
+- Password encription -> [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- Token -> [JWT](https://www.npmjs.com/package/jsonwebtoken)
 
 ## Usage 
 
